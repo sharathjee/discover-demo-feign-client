@@ -1,0 +1,5 @@
+spring:
+  application:
+      name: discover-demo-feign-client
+server:
+    port: 9092
